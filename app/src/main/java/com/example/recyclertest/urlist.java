@@ -1,10 +1,10 @@
 package com.example.recyclertest;
 
 public class urlist {
-    public  static String reg_website="https://gascdy.com/android/regsition.php";
-    public  static String  urlr = "https://gascdy.com/android/catagory.php";
-    public  static String url = "https://gascdy.com/android/index.php";
-    public  static String Data_url_upload = "https://gascdy.com/android/data_upload.php";
+    public  static String reg_website="https://test.com/android/regsition.php";
+    public  static String  urlr = "https://test.com/android/catagory.php";
+    public  static String url = "https://test.com/android/index.php";
+    public  static String Data_url_upload = "https://test.com/android/data_upload.php";
 
 
     public static String display="contract";
