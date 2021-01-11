@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">recyclertest</string>
+    <string name="dailog_total"> Total Available :</string>
+    <string name="title_activity_home_page">home_page</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="synchronize"> Product Synchronize</string>
+
+    <string name="menu_home">Home</string>
+    <string name="daily">Daily Report </string>
+    <string name="sells">Sales </string>
+
+
+    <string name="out_of_stock">Out of stock</string>
+    <string name="stock_add">Stock Add</string>
+
+
+    <string name="sub_user_create">Sub-User Create</string>
+    <string name="sub_user_list">Sub User list</string>
+
+
+    <string name="paid">Paid</string>
+    <string name="unpaid">Unpaid</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string name="login">Login</string>
+    <string name="permission_read_phone_state_rationale" />
+    <string name="permissions_not_granted_read_phone_state" />
+</resources>

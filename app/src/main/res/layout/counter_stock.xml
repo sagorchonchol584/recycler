@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textView8"
+    android:layout_width="26dp"
+    android:layout_height="28dp"
+    android:layout_marginTop="4dp"
+    android:background="@drawable/notification_squ"
+    android:gravity="center"
+    android:text="9+"
+    android:textColor="#FFFFFF"
+    android:textSize="12dp"
+    android:textStyle="bold"
+    >
+</TextView>

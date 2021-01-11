@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#8B448AFF</color>
+    <color name="purple_700">#F822C0D3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="bodertew">#090909</color>
+    <color name="search">#5C5959</color>
+    <color name="blue">#3071F1</color>
+    <color name="white">#FBFBFB</color>
+    <color name="appcolor">#43D4E5</color>
+    <color name="apptillecolor">#553A3A</color>
+    <color name="red">#FE0000</color>
+    <color name="blackt">#8AE1DEDE</color>
+    <color name="blacktree">#8A7E7C7C</color>
+    <color name="genariccolor">#F34E4D4D</color>
+    <color name="button_color">#FBF9F9</color>
+
+    <integer-array name="androidcolors">
+        <item>@color/appcolor</item>
+        <item>@color/red</item>
+        <item>@color/apptillecolor</item>
+        <item>@color/purple_200</item>
+        <item>@color/purple_500</item>
+        <item>@color/search</item>
+        <item>@color/teal_700</item>
+        <item>@color/teal_200</item>
+        <item>@color/design_default_color_error</item>
+    </integer-array>
+
+</resources>

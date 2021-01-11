@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item android:id="@+id/nav_home"
+            android:title="@string/menu_home" />
+        <item android:id="@+id/sells"
+            android:title="@string/sells" />
+        <item android:id="@+id/daily"
+            android:title="@string/daily" />
+    </group>
+
+
+    <item android:title="Stock Information">
+        <menu>
+    <group android:id="@+id/group_menuss">
+
+
+        <item android:id="@+id/out_of_stock"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/out_of_stock" />
+
+        <item android:id="@+id/stock_add"
+            android:title="@string/stock_add" />
+    </group>
+     </menu>
+    </item>
+
+
+
+    <item android:title="Profile">
+     <menu>
+    <group android:id="@+id/group_menu">
+        <item android:id="@+id/sub_user_create"
+            android:title="@string/sub_user_create" />
+        <item android:id="@+id/logout"
+            android:title="Logout" />
+    </group>
+    </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item android:id="@+id/Share"
+                android:title="Share" />
+            <item android:id="@+id/RateUs"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="Rate Us" />
+        </menu>
+    </item>
+
+
+</menu>
